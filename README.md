@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @soupap
 - 👀 I’m interested in (web dev and cyber security/ethical hacking)
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning MERN
 - 📫 How to reach me (saifboss2002@gmail.com)
 
 <!---
