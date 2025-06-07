@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @soupap
-- 👀 I’m interested in (web dev and cyber security/ethical hacking)
-- 🌱 I’m currently learning MERN
-- 📫 How to reach me (saifboss2002@gmail.com)
+- 👋 Hi, I’m @saif
+- 👀 I’m interested in (web dev , artificial intelligence and secutiry)
+- 🌱 I’m currently an engineering student 
+- 📫 How to reach me : saifeddinetrabelsi1@gmail.com
 
-<!---
-soupap/soupap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
